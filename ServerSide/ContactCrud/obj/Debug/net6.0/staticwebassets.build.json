@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BQ4VAvjXq1D2gXuf+Ja3EGpcJOSoLX3d+ODdDdzZAHU=",
+  "Source": "ContactCrud.Api",
+  "BasePath": "_content/ContactCrud.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\bin\Debug\net6.0\ContactCrud.Services.deps.json
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\bin\Debug\net6.0\ContactCrud.Services.dll
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\bin\Debug\net6.0\ContactCrud.Services.pdb
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\bin\Debug\net6.0\ContactCrud.Application.dll
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\bin\Debug\net6.0\ContactCrud.core.dll
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\bin\Debug\net6.0\ContactCrud.Application.pdb
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\bin\Debug\net6.0\ContactCrud.core.pdb
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ContactCrud.Services.csproj.AssemblyReference.cache
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ContactCrud.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ContactCrud.Services.AssemblyInfoInputs.cache
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ContactCrud.Services.AssemblyInfo.cs
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ContactCrud.Services.csproj.CoreCompileInputs.cache
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ContactC.E760E69F.Up2Date
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ContactCrud.Services.dll
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\refint\ContactCrud.Services.dll
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ContactCrud.Services.pdb
+D:\ASP_DOTNET\ContactsCRUD_self\ContactCrud.Services\obj\Debug\net6.0\ref\ContactCrud.Services.dll
