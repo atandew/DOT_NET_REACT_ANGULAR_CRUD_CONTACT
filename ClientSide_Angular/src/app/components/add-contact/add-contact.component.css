@@ -1,0 +1,25 @@
+/* app.component.css */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.text-danger {
+  color: red;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+label {
+  margin-right: 20px;
+}

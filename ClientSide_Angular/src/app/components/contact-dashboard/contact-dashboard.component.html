@@ -1,0 +1,24 @@
+Contacts
+<div><button (click)="navigateToAddContact()">Add Contact</button></div>
+<table>
+  <thead>
+    <th>Id</th>
+    <th>FirstName</th>
+    <th>LastName</th>
+    <th>Email</th>
+    <th>Phone No</th>
+    <th>Action</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let contact of contacts">
+      <td>{{ contact.contactId }}</td>
+      <td>{{ contact.firstName }}</td>
+      <td>{{ contact.lastName }}</td>
+      <td>{{ contact.email }}</td>
+      <td>{{ contact.phoneNumber }}</td>
+      <td>
+        <div><button>Edit</button><button>Delete</button></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
